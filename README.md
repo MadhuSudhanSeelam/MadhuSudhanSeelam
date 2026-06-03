@@ -1,131 +1,187 @@
-<h1 align="center">Hi 👋, I'm Seelam Madhusudhan</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech CSE Student | Full Stack Web Developer | AI/ML Enthusiast
-</h3>
+# Hi 👋 I'm Seelam Madhusudhan
 
-<p align="center">
-  <a href="https://leetcode.com/u/SeelamMadhuSudhan/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://seelammadhusudhan.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MadhuSudhanSeelam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;100%2B+LeetCode+Problems+Solved" />
+
+<img src="https://komarev.com/ghpvc/?username=MadhuSudhanSeelam&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student at Parul University
-- 💻 Full Stack Web Developer (MERN Stack)
-- 🤖 Passionate about AI/ML & Computer Vision
-- 🌱 Currently learning Data Structures & Algorithms
-- ☁️ AWS Academy Cloud Foundations Certified
-- 🏆 Solved 100+ LeetCode Problems
-- 📍 Vadodara, Gujarat, India
-- 📧 Contact: **smr662006@gmail.com**
+🎓 B.Tech Computer Science Engineering @ **Parul University**
+
+💻 Passionate Full Stack Developer focused on **MERN Stack**
+
+🤖 Interested in **AI, Computer Vision & Machine Learning**
+
+🌱 Currently learning **Advanced DSA and System Design**
+
+🏆 Solved **100+ LeetCode Problems**
+
+☁️ AWS Academy Cloud Foundations Certified
+
+📍 Vadodara, Gujarat, India
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Connect With Me
 
-### 💻 Languages
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="https://seelammadhusudhan.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+<a href="mailto:smr662006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🌐 Frontend Development
+<a href="https://leetcode.com/u/SeelamMadhuSudhan">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<a href="https://codolio.com/profile/Madhusudhan">
+<img src="https://img.shields.io/badge/Codolio-00C7B7?style=for-the-badge"/>
+</a>
 
----
-
-### ⚙ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
 ---
 
-### ☁ Tools & Technologies
+## ⚒️ Tech Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤟 Sign Language Translator
-- Real-time hand gesture recognition using Computer Vision & Machine Learning
-- Converts sign language into readable text
-- Helps improve communication accessibility
+Real-time hand gesture recognition system using Computer Vision and Machine Learning.
 
 ### 🤖 AI ChatBot
-- Built using React.js and Node.js
-- Context-aware responses
-- Clean and responsive user interface
+Context-aware chatbot built using React.js and Node.js.
 
 ### 🌦 Weather Application
-- Real-time weather updates using API integration
-- Displays temperature, humidity, and forecast
-- Responsive design for all devices
+Real-time weather forecasting application using public APIs.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills, and achievements.
 
 ---
 
-## 📊 Coding Profiles
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://leetcode.com/u/SeelamMadhuSudhan/">
-    <img src="https://leetcard.jacoblin.cool/SeelamMadhuSudhan?theme=dark&font=Roboto&ext=activity" />
-  </a>
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MadhuSudhanSeelam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-## 🏆 Achievements
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuSudhanSeelam&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- 🏅 AWS Academy Graduate – Cloud Foundations
-- 💻 Solved 100+ LeetCode Problems
-- 🤝 Participant in Pierce Hackathon 6.0
-- 🚀 Built AI & Full Stack Projects
-- 📚 Continuous Learner in AI/ML and Web Development
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhuSudhanSeelam&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhuSudhanSeelam&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhuSudhanSeelam&theme=tokyonight" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=MadhuSudhanSeelam&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuSudhanSeelam&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-# ⚡ Fun Fact
+## 📈 Contribution Graph
 
-> Debug 🔧 Learn 📚 Build 🚀 Repeat 🔁
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhuSudhanSeelam&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## ⚡ LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/SeelamMadhuSudhan?theme=dark&font=Fira+Code&ext=activity"/>
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+✔ AWS Academy Graduate – Cloud Foundations
+
+✔ AI Fluency Certification ×2
+
+✔ Pierce Hackathon 6.0 Participant
+
+✔ 100+ LeetCode Problems Solved
+
+✔ Built AI-Powered Applications
+
+---
+
+## 🌍 Languages
+
+🇮🇳 Telugu (Native)
+
+🇬🇧 English (Professional)
+
+🇮🇳 Hindi (Conversational)
+
+---
+
+<div align="center">
+
+### 📬 Contact
+
+📧 **smr662006@gmail.com**
+
+🌐 **seelammadhusudhan.netlify.app**
+
+💻 **Build • Learn • Ship • Repeat 🚀**
+
+</div>
