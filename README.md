@@ -16,7 +16,7 @@
 
 💻 Passionate Full Stack Developer focused on **MERN Stack**
 
-🤖 Interested in **AI, Computer Vision & Machine Learning**
+🤖 Interested in **AI & Machine Learning**
 
 🌱 Currently learning **Advanced DSA and System Design**
 
