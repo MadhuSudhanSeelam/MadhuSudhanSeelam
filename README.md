@@ -88,9 +88,6 @@
 
 ## 🚀 Featured Projects
 
-### 🤟 Sign Language Translator
-Real-time hand gesture recognition system using Computer Vision and Machine Learning.
-
 ### 🤖 AI ChatBot
 Context-aware chatbot built using React.js and Node.js.
 
